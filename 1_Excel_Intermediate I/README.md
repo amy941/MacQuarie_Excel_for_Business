@@ -219,7 +219,7 @@
   
 💥 **- Week 6_Practice Challenge:** [challenge](https://github.com/amy941/Macquarie_Excel_for_Business/blob/main/1_Excel_Intermediate%20I/20250313_Week%206/C2-W6-Practice-Challenge.xlsx)
 
-💥💥 **- Week 6_Assessment:** [assessment_Week 6]()
+💥💥 **- Week 6_Assessment:** [assessment_Week 6](https://github.com/amy941/Macquarie_Excel_for_Business/blob/main/1_Excel_Intermediate%20I/20250313_Week%206/C2-W6-Assessment-Workbook.xlsx)
 
 ---
 
