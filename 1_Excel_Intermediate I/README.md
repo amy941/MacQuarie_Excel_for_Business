@@ -228,7 +228,7 @@
 ---
 # CERTIFICATE
 
-![Image](https://github.com/user-attachments/assets/96377273-fd75-48b2-886a-321b185e74b9)
+![Intermediate I_cert](https://github.com/user-attachments/assets/fb62d3a6-c047-4cef-8524-67055fb673d2)
 
 
 
