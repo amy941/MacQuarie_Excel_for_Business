@@ -1,5 +1,5 @@
 # WEEK 1: 
-# 🔗Link: [Week 1_folder](https://github.com/amy941/MacQuarie_Excel_Intermediate-II/tree/main/Week%201)
+# 🔗Link: [Week 1_folder](https://github.com/amy941/MacQuarie_Excel_for_Business/tree/main/2_Excel_Intermediate%20II/Week%201)
 ### - Data Validation
 - ```Data``` tab--> Data Validation (Settings/Input Message/ Error Alert)
    - *Settings*: define the validation criteria. The default allows ```any value```, meaning **no validation** is taking place. Drop-down shows: Any value, Whole number, Decimal, List, Date, Time, ...
@@ -30,14 +30,14 @@
 - ```Conditional Formatting``` --> New Rule...--> "Use a formula to determine which cells to format" --> **Format values where this formula is true:** = H4 < J4 (w/o $ signs) --> Preview: Format (Font:Bold, Fill:Color)
 - ```Conditional Formatting``` --> New Rule...--> "Use a formula to determine which cells to format" --> **Format values where this formula is true:** = **$E4** = $O$4 **(⚠️ Row to go Relative while Column remain Abs)** --> Preview: Format (Fill:Color)
   
-💥 **- Week 1_Practice Challenge:** [challenge](https://github.com/amy941/MacQuarie_Excel_Intermediate-II/blob/main/Week%201/C3-W1-Practice-Challenge.xlsx)
+💥 **- Week 1_Practice Challenge:** [challenge](https://github.com/amy941/MacQuarie_Excel_for_Business/blob/main/2_Excel_Intermediate%20II/Week%201/C3-W1-Practice-Challenge.xlsx)
 
-💥💥 **- Week 1_Assessment:** [assessment_Week 1](https://github.com/amy941/MacQuarie_Excel_Intermediate-II/blob/main/Week%201/C3-W1-Assessment.xlsx)
+💥💥 **- Week 1_Assessment:** [assessment_Week 1](https://github.com/amy941/MacQuarie_Excel_for_Business/blob/main/2_Excel_Intermediate%20II/Week%201/C3-W1-Assessment.xlsx)
 
 ---
 
 # WEEK 2
-# 🔗Link: [Week 2_folder](https://github.com/amy941/MacQuarie_Excel_Intermediate-II/tree/main/Week%202)
+# 🔗Link: [Week 2_folder](https://github.com/amy941/MacQuarie_Excel_for_Business/blob/main/2_Excel_Intermediate%20II/Week%202/C3-W2-Final-Assessment.xlsx)
 ### - Logical Functions I: IF
 
 **=IF(logical test, [value_if_true], [value_if_false])**
@@ -88,14 +88,14 @@
 - =IFERROR(AVERAGE('Invoice Data'!$O$4:$O$654),"")
 - =IFNA(VLOOKUP('Invoice Data'!$A4,BPay!$B$4:$D$10,3,0),0)
 
-💥 **- Week 2_Practice Challenge:** [challenge](https://github.com/amy941/MacQuarie_Excel_Intermediate-II/blob/main/Week%202/C3-W2-Practice-Challenge.xlsx)
+💥 **- Week 2_Practice Challenge:** [challenge](https://github.com/amy941/MacQuarie_Excel_for_Business/blob/main/2_Excel_Intermediate%20II/Week%202/C3-W2-Practice-Challenge.xlsx)
 
-💥💥 **- Week 2_Assessment:** [assessment_Week 2](https://github.com/amy941/MacQuarie_Excel_Intermediate-II/blob/main/Week%202/C3-W2-Final-Assessment.xlsx) 
+💥💥 **- Week 2_Assessment:** [assessment_Week 2](https://github.com/amy941/MacQuarie_Excel_for_Business/blob/main/2_Excel_Intermediate%20II/Week%202/C3-W2-Final-Assessment.xlsx) 
 
 ---
 
 # WEEK 3
-# 🔗Link: [Week 3_folder](https://github.com/amy941/MacQuarie_Excel_Intermediate-II/tree/main/Week%203)
+# 🔗Link: [Week 3_folder](https://github.com/amy941/MacQuarie_Excel_for_Business/tree/main/2_Excel_Intermediate%20II/Week%203)
 ### - Introduction to lookups: CHOOSE
 - **CHOOSE**: retrieving a value from a list based on a given numeric value.
   
@@ -163,14 +163,14 @@
 
   The **INDEX MATCH** has no such restriction --> more versatile. It also has the advantage that you can split out the lookup from the return while VLOOKUP cannot.
  
-💥 **- Week 3_Practice Challenge:** [challenge](https://github.com/amy941/MacQuarie_Excel_Intermediate-II/blob/main/Week%203/C3-W3-Practice-Challenge.xlsx)
+💥 **- Week 3_Practice Challenge:** [challenge](https://github.com/amy941/MacQuarie_Excel_for_Business/blob/main/2_Excel_Intermediate%20II/Week%203/C3-W3-Practice-Challenge.xlsx)
 
-💥💥 **- Week 3_Assessment:** [assessment_Week 3](https://github.com/amy941/MacQuarie_Excel_Intermediate-II/blob/main/Week%203/C3-W3-Final-Assessment.xlsx)
+💥💥 **- Week 3_Assessment:** [assessment_Week 3](https://github.com/amy941/MacQuarie_Excel_for_Business/blob/main/2_Excel_Intermediate%20II/Week%203/C3-W3-Final-Assessment.xlsx)
 
 ---
 
 # WEEK 4
-# 🔗Link: [Week 4_folder](https://github.com/amy941/MacQuarie_Excel_Intermediate-II/tree/main/Week%204)
+# 🔗Link: [Week 4_folder](https://github.com/amy941/MacQuarie_Excel_for_Business/tree/main/2_Excel_Intermediate%20II/Week%204)
 ### - Error Checking
 - Error: **#N/A**, **#REF**, **#VALUE!**, **#DIV/0!**, **#NAME?**
   * Errors occur when typing mistakes, incorrect syntax, or invalid arguments.
@@ -276,14 +276,14 @@
    * **Protect Sheet**: ```Review``` tab --> Allow Users to Edit Ranges (can specify certain ranges to have their own password) --> New
 
   
-💥 **- Week 4_Practice Challenge:** [challenge](https://github.com/amy941/MacQuarie_Excel_Intermediate-II/blob/main/Week%204/C3-W4-Practice-Challenge.xlsx)
+💥 **- Week 4_Practice Challenge:** [challenge](https://github.com/amy941/MacQuarie_Excel_for_Business/blob/main/2_Excel_Intermediate%20II/Week%204/C3-W4-Practice-Challenge.xlsx)
 
-💥💥 **- Week 4_Assessment:** [assessment_Week 4](https://github.com/amy941/MacQuarie_Excel_Intermediate-II/blob/main/Week%204/C3-W4-Final-Assessment.xlsx)
+💥💥 **- Week 4_Assessment:** [assessment_Week 4](https://github.com/amy941/MacQuarie_Excel_for_Business/blob/main/2_Excel_Intermediate%20II/Week%204/C3-W4-Final-Assessment.xlsx)
 
 ---
 
 # WEEK 5
-# 🔗Link: [Week 5_folder](https://github.com/amy941/MacQuarie_Excel_Intermediate-II/tree/main/Week%205)
+# 🔗Link: [Week 5_folder](https://github.com/amy941/MacQuarie_Excel_for_Business/tree/main/2_Excel_Intermediate%20II/Week%205)
 ### - Modelling Functions: SUMPRODUCT
 - **SUMPRODUCT()** finds the product of multiple arrays and then sums up the products.
   * **=SUMPRODUCT(**array1**, [array2], [array3], ...)**
@@ -346,14 +346,14 @@
 
 
 
-💥 **- Week 5_Practice Challenge:** [challenge](https://github.com/amy941/MacQuarie_Excel_Intermediate-II/blob/main/Week%205/C3-W5-Practice-Challenge.xlsx)
+💥 **- Week 5_Practice Challenge:** [challenge](https://github.com/amy941/MacQuarie_Excel_for_Business/blob/main/2_Excel_Intermediate%20II/Week%205/C3-W5-Practice-Challenge.xlsx)
 
-💥💥 **- Week 5_Assessment:** [assessment_Week 5](https://github.com/amy941/MacQuarie_Excel_Intermediate-II/blob/main/Week%205/C3-W5-Final-Assessment.xlsx)
+💥💥 **- Week 5_Assessment:** [assessment_Week 5](https://github.com/amy941/MacQuarie_Excel_for_Business/blob/main/2_Excel_Intermediate%20II/Week%205/C3-W5-Final-Assessment.xlsx)
 
 ---
 
 # WEEK 6
-# 🔗Link: [Week 6_folder](https://github.com/amy941/MacQuarie_Excel_Intermediate-II/tree/main/Week%206)
+# 🔗Link: [Week 6_folder](https://github.com/amy941/MacQuarie_Excel_for_Business/tree/main/2_Excel_Intermediate%20II/Week%206)
 ### - Record a Macro
 - ➕ **Add macro:** ```File```--> Options--> Customize Ribbon--> Developer. You should now see the **Developer tab on the Ribbon**
 - 📽️ **Record macro:** hit a Record button, give a name, specify where to store it, go thro all the steps we want Excel to remember us doing, then press **Stop.** ‼️
