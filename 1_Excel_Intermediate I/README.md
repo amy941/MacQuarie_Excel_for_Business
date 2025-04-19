@@ -1,5 +1,5 @@
 # WEEK 1: 
-# 🔗Link: [Week 1_folder](https://github.com/amy941/MacQuarie_Excel_Intermediate-I/tree/main/20250218_Week%201)
+# 🔗Link: [Week 1_folder](https://github.com/amy941/Macquarie_Excel_for_Business/tree/main/1_Excel_Intermediate%20I/20250218_Week%201)
 ### - Multiple Worksheets
 - Copy Excel sheet: right click--> move or copy /or hold Ctrl key down, drag, release.
 - Cannot undo the sheet delete
@@ -25,16 +25,16 @@
 ### - Consolidating by Reference (category)
 - ```Data```--> Consolidate. Choose labels (Top row/Left column)
   
-💥 **- Week 1_Practice Challenge:** [challenge](https://github.com/amy941/MacQuarie_Excel_Intermediate-I/blob/main/20250218_Week%201/W1_PracticeChallenge_HeadOffice.xlsx)
+💥 **- Week 1_Practice Challenge:** [challenge](https://github.com/amy941/Macquarie_Excel_for_Business/blob/main/1_Excel_Intermediate%20I/20250218_Week%201/W1_PracticeChallenge_HeadOffice.xlsx)
 
-💥 **- Week 1_Advanced Practice Challenge:** [adv challenge](https://github.com/amy941/MacQuarie_Excel_Intermediate-I/blob/main/20250218_Week%201/W1_AdvPracticeChallenge.xlsx)
+💥 **- Week 1_Advanced Practice Challenge:** [adv challenge](https://github.com/amy941/Macquarie_Excel_for_Business/blob/main/1_Excel_Intermediate%20I/20250218_Week%201/W1_AdvPracticeChallenge.xlsx)
 
-💥💥 **- Week 1_Assessment:** [assessment_Week 1](https://github.com/amy941/MacQuarie_Excel_Intermediate-I/tree/main/20250218_Week%201/assessment)
+💥💥 **- Week 1_Assessment:** [assessment_Week 1](https://github.com/amy941/Macquarie_Excel_for_Business/tree/main/1_Excel_Intermediate%20I/20250218_Week%201/Week%201_assessment)
 
 ---
 
 # WEEK 2
-# 🔗Link: [Week 2_folder](https://github.com/amy941/MacQuarie_Excel_Intermediate-I/tree/main/20250225_Week%202)
+# 🔗Link: [Week 2_folder](https://github.com/amy941/Macquarie_Excel_for_Business/tree/main/1_Excel_Intermediate%20I/20250225_Week%202)
 ### - Combining text (CONCAT, &):
   
   *FirstName.LastName@pushpin.com* = CONCAT(C4,".",B4,"@pushpin.com") /or = C4&"."B4&"@pushpin.com"
@@ -64,14 +64,14 @@
 
   = YEARFRAC(start_date, end_date) = YEARFRAC(F4,TODAY())
   
-💥 **- Week 2_Practice Challenge:** [challenge](https://github.com/amy941/MacQuarie_Excel_Intermediate-I/blob/main/20250225_Week%202/C2-W2-Practice-Challenge.xlsx)
+💥 **- Week 2_Practice Challenge:** [challenge](https://github.com/amy941/Macquarie_Excel_for_Business/blob/main/1_Excel_Intermediate%20I/20250225_Week%202/C2-W2-Practice-Challenge.xlsx)
 
-💥💥 **- Week 2_Assessment:** [assessment_Week 2](https://github.com/amy941/MacQuarie_Excel_Intermediate-I/blob/main/20250225_Week%202/C2-W2-Assessment-Workbook.xlsx)
+💥💥 **- Week 2_Assessment:** [assessment_Week 2](https://github.com/amy941/Macquarie_Excel_for_Business/blob/main/1_Excel_Intermediate%20I/20250225_Week%202/C2-W2-Assessment-Workbook.xlsx)
 
 ---
 
 # WEEK 3
-# 🔗Link: [Week 3_folder](https://github.com/amy941/MacQuarie_Excel_Intermediate-I/tree/main/20250228_Week%203)
+# 🔗Link: [Week 3_folder](https://github.com/amy941/Macquarie_Excel_for_Business/tree/main/1_Excel_Intermediate%20I/20250228_Week%203)
 ### - Names Ranges:
   
   =N4*Pension_Rate
@@ -88,12 +88,12 @@
   
 💥 **- Week 3_Practice Challenge:** None🚫
 
-💥💥 **- Week 3_Assessment:** [assessment_Week 3](https://github.com/amy941/MacQuarie_Excel_Intermediate-I/blob/main/20250228_Week%203/C2-W3-Assessment-Workbook.xlsx)
+💥💥 **- Week 3_Assessment:** [assessment_Week 3](https://github.com/amy941/Macquarie_Excel_for_Business/blob/main/1_Excel_Intermediate%20I/20250228_Week%203/C2-W3-Assessment-Workbook.xlsx)
 
 ---
 
 # WEEK 4
-# 🔗Link: [Week 4_folder](https://github.com/amy941/MacQuarie_Excel_Intermediate-I/tree/main/20250301_Week%204)
+# 🔗Link: [Week 4_folder](https://github.com/amy941/Macquarie_Excel_for_Business/tree/main/1_Excel_Intermediate%20I/20250301_Week%204)
 ### - COUNT funct.
 
 - **COUNT():** only counts the number of occurrences of cells that contain **NUMERIC** values. However, COUNT() still works on **dates**.
@@ -141,14 +141,14 @@
   
 ### - Trendlines
   
-💥 **- Week 4_Practice Challenge:** [challenge](https://github.com/amy941/MacQuarie_Excel_Intermediate-I/blob/main/20250301_Week%204/C2-W4-Practice-Challenge.xlsx)
+💥 **- Week 4_Practice Challenge:** [challenge](https://github.com/amy941/Macquarie_Excel_for_Business/blob/main/1_Excel_Intermediate%20I/20250301_Week%204/C2-Week%204-Practice-Challenge.xlsx)
 
-💥💥 **- Week 4_Assessment:** [assessment_Week 4](https://github.com/amy941/MacQuarie_Excel_Intermediate-I/blob/main/20250301_Week%204/C2-W4-Assessment-Workbook.xlsx)
+💥💥 **- Week 4_Assessment:** [assessment_Week 4](https://github.com/amy941/Macquarie_Excel_for_Business/blob/main/1_Excel_Intermediate%20I/20250301_Week%204/C2-W4-Assessment-Workbook.xlsx)
 
 ---
 
 # WEEK 5
-# 🔗Link: [Week 5_folder](https://github.com/amy941/MacQuarie_Excel_Intermediate-I/tree/main/20250302_Week%205)
+# 🔗Link: [Week 5_folder](https://github.com/amy941/Macquarie_Excel_for_Business/tree/main/1_Excel_Intermediate%20I/20250302_Week%205)
 ### - Create and format tables
 - Ctrl + T
 - ```Table Design``` tab on ribbon
@@ -179,14 +179,14 @@
 - Before converting to Range, Sort first. Then, remove Banded Rows and turn off the Total Row. Finally, click ```Convert to Range```
 - **Subtotal** feature is not supported by Tables because we have summary data mixed with data entries.
 
-💥 **- Week 5_Practice Challenge:** [challenge](https://github.com/amy941/MacQuarie_Excel_Intermediate-I/blob/main/20250302_Week%205/C2-W5-Practice-Challenge.xlsx)
+💥 **- Week 5_Practice Challenge:** [challenge](https://github.com/amy941/Macquarie_Excel_for_Business/blob/main/1_Excel_Intermediate%20I/20250302_Week%205/C2-W5-Practice-Challenge.xlsx)
 
-💥💥 **- Week 5_Assessment:** [assessment_Week 5](https://github.com/amy941/MacQuarie_Excel_Intermediate-I/blob/main/20250302_Week%205/C2-W5-Assessment-Workbook.xlsx)
+💥💥 **- Week 5_Assessment:** [assessment_Week 5](https://github.com/amy941/Macquarie_Excel_for_Business/blob/main/1_Excel_Intermediate%20I/20250302_Week%205/C2-W5-Assessment-Workbook.xlsx)
 
 ---
 
 # WEEK 6
-# 🔗Link: [Week 6_folder](https://github.com/amy941/MacQuarie_Excel_Intermediate-I/tree/main/20250313_Week%206)
+# 🔗Link: [Week 6_folder](https://github.com/amy941/Macquarie_Excel_for_Business/tree/main/1_Excel_Intermediate%20I/20250313_Week%206)
 ### - Create & Modify a Pivot table
 - Convert data into **a Table** before performing Pivot Table.
 - Click ```Refresh``` to update new values.
@@ -217,13 +217,13 @@
 - Slicer can connect slicers to multiple pivots. ```Options``` tab --> Report Connections
 
   
-💥 **- Week 6_Practice Challenge:** [challenge](https://github.com/amy941/MacQuarie_Excel_Intermediate-I/blob/main/20250313_Week%206/C2-W6-Practice-Challenge.xlsx)
+💥 **- Week 6_Practice Challenge:** [challenge](https://github.com/amy941/Macquarie_Excel_for_Business/blob/main/1_Excel_Intermediate%20I/20250313_Week%206/C2-W6-Practice-Challenge.xlsx)
 
-💥💥 **- Week 6_Assessment:** [assessment_Week 6](https://github.com/amy941/MacQuarie_Excel_Intermediate-I/blob/main/20250313_Week%206/C2-W6-Assessment-Workbook.xlsx)
+💥💥 **- Week 6_Assessment:** [assessment_Week 6]()
 
 ---
 
-# Final Course Assessment: [Final Course Assessment](https://github.com/amy941/MacQuarie_Excel_Intermediate-I/blob/main/20250313_Week%206/C2-Final-Assessment.xlsx)
+# Final Course Assessment: [Final Course Assessment](https://github.com/amy941/Macquarie_Excel_for_Business/blob/main/1_Excel_Intermediate%20I/20250313_Week%206/C2-Final-Assessment.xlsx)
 
 ---
 # CERTIFICATE
