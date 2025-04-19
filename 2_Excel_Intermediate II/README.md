@@ -42,7 +42,8 @@
 
 **=IF(logical test, [value_if_true], [value_if_false])**
 - First argument is **a logical test**, compares 2 values using a **logical operator**
-  ![logical operator](https://github.com/user-attachments/assets/4e3ef65a-d3e2-4e5f-abfe-975a3472416a)
+  ![logical operator](https://github.com/user-attachments/assets/f9586ddc-cc68-4062-bd26-f23d58c0051b)
+  
   
 - Second argument in brackets is the **"value_if_true"**, could be a value we just type into the cell /or a calculated value.
   * if the logical test equates to True, then whatever we've got between two commas will occur.
@@ -79,7 +80,7 @@
 
 
 ### - Combining Logical Functions II: Nested IFs
-![nested IFs](https://github.com/user-attachments/assets/80651868-47ff-4e95-83cb-385a064d9bbb)
+![nested IF](https://github.com/user-attachments/assets/f16df025-17bb-4866-a423-f19d984edc3b)
 
 **=IF(Balance= 0, "A", IF(Balance > 0, "B", "C"))**
 
@@ -187,7 +188,7 @@
 
 - **Trace errors**: ```Formulas``` tab --> Error Checking (click drop-down) --> Trace Error 
 
-![trace_error](https://github.com/user-attachments/assets/fe18c8a6-a4ad-4910-91a2-86aa376e53ee)
+![trace error](https://github.com/user-attachments/assets/47772e8a-8e8d-466e-8117-77daa91f4794)
 
 ### - Formula Calc Options
 - 🔁 **Circular references**: is when the calc. cell includes itself as part of that calc., and as a result, gets into an **infinite loop.**
@@ -206,19 +207,19 @@
 ### - Tracing Precedents & Dependents
 - **Trace Precedents** is a cell that is referred to in a formula.
   
-![trace_precedent](https://github.com/user-attachments/assets/b306bb52-abaa-4a91-b2ea-d5adc342c933)
+![trace_dependent](https://github.com/user-attachments/assets/a551ed27-82ea-43f2-ab90-87e74a4b6e43)
   
 - **Trace Dependents** is a formula that refers to your cell.
   
-![trace_dependent1](https://github.com/user-attachments/assets/63458feb-ae7d-492c-905c-ba19d300f5ae)
+![trace_dependent1](https://github.com/user-attachments/assets/ad5922d4-3b65-4ec1-a990-afee9191af18)
 
 ⬇️ ⬇️ ⬇️ CLICK TWICE
 
-![trace_dependent2](https://github.com/user-attachments/assets/8d0dc03c-3b01-4aee-bb26-b53ee4692578)
+![trace_dependent2](https://github.com/user-attachments/assets/2c91457e-2095-4bc6-89cc-3336268475b2)
 
 - **dash black arrow**: indicates we are referring to a value in a different worksheet.
   
-![dash_black_arrow](https://github.com/user-attachments/assets/7283eaea-f903-4b7c-8436-e93f52cd41c7)
+![dash_black_arrow](https://github.com/user-attachments/assets/23ebed23-b18e-481f-931b-4f17bf54fa05)
 
 
 ### - Evaluate Formula, Watch Window
@@ -226,13 +227,12 @@
   * Evaluate: work through formula step-by-step
   * Step In: displays a formula that is referred to in your active formula in a separate box.
 
-![evaluate_formula](https://github.com/user-attachments/assets/52924892-46ab-4e74-9fb2-b638dedf7fa0)
+![evaluate_formula](https://github.com/user-attachments/assets/c6dabac2-157d-4bc3-a073-47eb382ff732)
 
 
 - ```Formulas``` tab --> Watch Window (watch the cells even when we are not on the same worksheet)
 
-![watch_window](https://github.com/user-attachments/assets/64bc44c9-cb0d-48e7-b2e2-2699baf0c130)
-
+![watch_windown](https://github.com/user-attachments/assets/79af3fc7-a039-4126-8a66-af33e2dab3cc)
 
 ### - Protecting Workbooks & Worksheets
 - to prevent unauthorized access or accidental damage
@@ -251,24 +251,24 @@
 - **Method 3**: ```Review``` tab --> Protect Sheet || Protect Workbook
   * **Protect Workbook: protect the structure of the workbook**
 
-    ![protect_workbook](https://github.com/user-attachments/assets/a8983c12-e874-4c71-a0a7-cd6c9d644369)
+    ![protect_workbook](https://github.com/user-attachments/assets/a0fe6a58-ec90-4cf2-bc83-b99d2cb869bd)
 
     * Impact: Structure of workbook is locked, means: cannot add New sheet ➕, cannot move the Sheet, right-click on any of the tabs nearly all the options have been grayed out.
     * Benefits: great for 3D cell references as we don't want the sheets to move around too much /or want sheets to remain hidden.
       
   * **Protect Sheet: lock down the contents of the sheet**
     
-    ![protect_sheet](https://github.com/user-attachments/assets/2e3db63f-bab2-469d-8f2e-6ecd578535a3)
+    ![protect_sheet](https://github.com/user-attachments/assets/5ee78cd9-bed7-4f34-94df-f01ce834841b)
     
     * Impact: locked the sheet but still can click & view the content of the cells.
 
    * **Protect Sheet** (unlock certain cells)
 
-     ![protect_sheet_certain_cell](https://github.com/user-attachments/assets/84f39c3f-c281-48d2-9b56-901c070fcef4)
+     ![protect_sheet_certain_cell](https://github.com/user-attachments/assets/0d66548b-647d-4c51-8f33-5539bede5d3f)
  
      ⬇️ ⬇️ ⬇️
  
-     ![protect_sheet_certain_cell1](https://github.com/user-attachments/assets/e6bd7cda-90a8-402a-bc08-bd5caf9c4aee)
+     ![protect_sheet_certain_cel1](https://github.com/user-attachments/assets/d1769709-0632-4642-a6be-1139fdc5b7fa)
 
      * Impact: users cannot view the content/formulas behind the cells, cannot even click on them. 
      * Benefits: allow the users to change certain cells but locked down the ones that contain the formulas so those remain protected.
@@ -304,14 +304,14 @@
 
 - **One-input Data Tables** (a single variable)
 
-  ![single_variable](https://github.com/user-attachments/assets/145ec8c2-6f9a-4c9f-a8eb-715f462ddbfa) 
+  ![single_variable](https://github.com/user-attachments/assets/42c818a0-4a59-4a21-8315-6c54a6f868c1) 
 
   * { =TABLE(,E17) } --> means we're dealing with a data table
   * ❗Cannot delete a single cell. If want to delete, have to select all of those results.
 
 - **Two-input Data Tables** (a dual variable)
 
-  ![dual_variable](https://github.com/user-attachments/assets/61f0f4d4-8a6f-4311-997b-e8944a1cf410)
+  ![dual_variable](https://github.com/user-attachments/assets/08f56c8a-a91e-477d-bcec-283f7517d254)
 
   * { =TABLE(E21,E23) }
 
@@ -324,11 +324,11 @@
   * **To value**: want this to equal to ...
   * **By changing cell**: which input we want to change to get to that result. Must be in a **typed-in value** rather than a formula ❗
 
-![goal_seek_2](https://github.com/user-attachments/assets/04b50567-4f81-4aa8-b2ca-88ac930f1bdf)
+![goal_seek_2](https://github.com/user-attachments/assets/8799bb47-0d9e-49a1-b5fa-9450287594f3)
 
 ⬇️ ⬇️ ⬇️
 
-![goal_seek_2_result](https://github.com/user-attachments/assets/40bab345-b155-4343-ba6a-83b2630eeeec)
+![goal_seek_2_result](https://github.com/user-attachments/assets/87d0295f-3ce0-471e-bd28-00d2dfe57fe0)
   
 
 ### - Scenario Manager
@@ -393,4 +393,4 @@
 
 # CERTIFICATE
 
-![certificate](https://github.com/user-attachments/assets/02c14f42-d502-4a91-9561-fa4649e0e3df)
+![Intermediate II_cert](https://github.com/user-attachments/assets/51f13bb1-61b9-45de-bee5-4beaa98e589e)
