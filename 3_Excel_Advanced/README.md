@@ -1,5 +1,5 @@
 # WEEK 1: 
-# 🔗Link: [Week 1_folder]()
+# 🔗Link: [Week 1_folder](https://github.com/amy941/MacQuarie_Excel_for_Business/tree/main/3_Excel_Advanced/Week%201)
 ### - Spreadsheet Design Principles
 - **Accurate, Flexible, Responsive, Easy to Maintain, User Friendly.**
 - **Keep raw data separate** to ensure your original input stays intact and don't end up damaging it.
