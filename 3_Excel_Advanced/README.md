@@ -40,27 +40,52 @@
 ---
 
 # WEEK 2
-# 🔗Link: [Week 2_folder]()
+# 🔗Link: [Week 2_folder](https://github.com/amy941/MacQuarie_Excel_for_Business/tree/main/3_Excel_Advanced/Week%202)
 ### - Tables & Structured Referencing
-  
+- =ROWS(Sales)
+- **Structured References**:
+  * looks like Named Ranges. Inside square brackets [...], we can list parts of the table we want to work with.
+  * **"&" symbol** indicates current row --> =SUM(Sales[@[Australia]:[China]])
+  * **Use Headers**--> =Sales[[#Headers], [Australia]]
+  * are **Mixed Cell References**
 
+- LARGE(array, k) =LARGE(Sales[Australia])
 
 ### - Using Functions to Sort Data
-
-
+- **Link URL into Excel file:** ```Data``` tab--> Get Data--> From Web--> paste URL--> click Go. Pick table--> Import--> Ok
+- **Sort data**:
+  * use COUNTIFS (=COUNTIFS(rateCodes, "<="&'Current Rates'!D4))
+  * INDEX(MATCH(ROW_))
+    
   
 ### - Introduction to Array Formulas
+- **CSE formula:** Ctrl+Shift+Enter
+- **Multi-cell array formula:** use a single calculation to return multiple results.
+  * Start by selecting all the cells we want the answers to go
+  * Type "=", then select the first set of values (**the whole array**) we want to multiply
+  * Multiply "*"...
+  * Ctrl+Shift+Enter
+
+- **Array formula:**
+  * Always shows in **curly braces** {_}
+    {=C4:C36*H4}
+  * cannot delete part of array formula. It can update, but has to be all or nothing.
+
+- **Single Cell formula:** =SUM(H7:H9*I7:I9), then Ctrl+Shift+Enter
+- **array constant:** an array of values that you specify they are constant rather than referring to cell references.
+  * done by putting the values in curly braces, and separating them with semi-colons
+    =LARGE(D4:D36, {1; 2; 3}), then Ctrl+Shift+Enter
 
 
-
-  
 ### - Working w Array Function (TRANSPOSE)
-
+- **TRANSPOSE function:**
+  * Start by selecting all the cells we want the values to go,
+  * =TRANSPOSE(select all the values we want to swing thro 90 degree)
+  * Ctrl+Shift+Enter
 
   
 ### - Solving Problems w Array Formulas
-
-
+- **If returning ERRORs:** =SUM(IFNA(H7:H17*I7:I17, 0))
   
 💥 **- Week 2_Practice Challenge:** [challenge]()
 
