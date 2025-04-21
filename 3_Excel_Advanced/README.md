@@ -85,7 +85,7 @@
 
   
 ### - Solving Problems w Array Formulas
-- **If returning ERRORs:** =SUM(IFNA(H7:H17*I7:I17, 0))
+- **If returning ERRORs:** =SUM(**IFNA**(H7:H17*I7:I17, 0))
   
 💥 **- Week 2_Practice Challenge:** [challenge]()
 
