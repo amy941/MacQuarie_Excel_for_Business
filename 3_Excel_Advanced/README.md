@@ -35,7 +35,7 @@
 
 💥 **- Week 1_Practice Challenge:** None 🚫
 
-💥💥 **- Week 1_Assessment:** [assessment_Week 1]()
+💥💥 **- Week 1_Assessment:** [assessment_Week 1](https://github.com/amy941/MacQuarie_Excel_for_Business/blob/main/3_Excel_Advanced/Week%201/C4-W1-Final-Assessment.xlsx)
 
 ---
 
