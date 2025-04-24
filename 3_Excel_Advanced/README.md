@@ -89,7 +89,7 @@
   
 💥 **- Week 2_Practice Challenge:** [challenge](https://github.com/amy941/MacQuarie_Excel_for_Business/blob/main/3_Excel_Advanced/Week%202/C4-W2-Practice-Challenge.xlsx)
 
-💥💥 **- Week 2_Assessment:** [assessment_Week 2]()
+💥💥 **- Week 2_Assessment:** [assessment_Week 2](https://github.com/amy941/MacQuarie_Excel_for_Business/blob/main/3_Excel_Advanced/Week%202/C4-W2-Final-Assessment.xlsx)
 
 ---
 
