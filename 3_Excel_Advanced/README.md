@@ -140,19 +140,24 @@
 # WEEK 4
 # 🔗Link: [Week 4_folder]()
 ### - Working with Dates (EOMONTH, EDATE, WORKDAY.INTL)
-
-
+- **EOMONTH(start_date, months)**: Returns the **last day of the month** that is the specified number of months before or after the start date.
+- **EDATE(start_date, months)**: Returns the **same day of the month**, but a specified number of months before or after the start date.
+- **WORKDAY.INTL(_)**:  Returns a date after adding/subtracting **workdays**, excluding weekends and optionally holidays.
 
 ### - Financial Functions (FV, PV, PMT)
-
+- **Future Value:** **FV**(rate, nper, pmt, [pv], [type])
+- **Present Value:** **PV**(rate, nper, pmt, [fv], [type])
+- **Payment**: **PMT**(rate, nper, pv, [fv], [type])
 
  
 ### - Loan Schedule (PMT, EDATE)
-
+- the optional **[FV]** argument in the **PMT** function allows us to specify the balance to be attained after the last payment is made.
+- **PMT** function is used when we want to calc. the fixed monthly repayments of a car loan.
 
   
 ### - Net Present Value & Internal Rate of Return (NPV, IRR)
-
+- **Net Present Value:** **NPV**(rate, value1, [value2], …). _Purpose:_ Calculates the present value of a series of **future cash flows**, discounted **at a given rate.**
+- **Internal Rate of Return:** **IRR**(values, [guess]). _Purpose:_ Calculates the **discount rate** that makes the NPV of cash flows equal to zero.
 
 
 ### - Depreciation Functions (SLN, SYD, DDB)
@@ -168,13 +173,21 @@
 # WEEK 5
 # 🔗Link: [Week 5_folder]()
 ### - INDIRECT
-
+- **INDIRECT** funct uses **A1-style** referencing
+- **INDIRECT** funct contains:
+  * a reference to a cell as a text string
+  * **A1-style** referencing
+  * **R1C1-style** reference
+  * a named defined as a ref
+  * a formula
 
 ### - ADDRESS
+- **ADDRESS:** returns the **cell address** (as a text string) for a cell at a specified **row and column number**.
 
-  
 ### - Intro to OFFSET
-
+- **OFFSET**(reference, rows, cols, [height], [width])
+- Returns a **cell or range** that is a specific number of **rows and columns** away from a starting reference.
+- It's super handy for **dynamic ranges** and **lookups**. 
 
 ### - Solving Problems w OFFSET
 
@@ -189,11 +202,10 @@
 # WEEK 6
 # 🔗Link: [Week 6_folder]()
 ### - Dashboard Design
-
+- **Segmentation** in dash board is important because it allows us to display info in groupings.
+- **Shapes** and **Background fill** are really flexible and useful in dashboard design.
 
 ### - Prepare Data
-
-
 
 
 ### - Construct Dashboard
