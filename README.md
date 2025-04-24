@@ -7,7 +7,7 @@
 ## 📉3) Excel Advanced: [Advanced](https://github.com/amy941/Macquarie_Excel_for_Business/tree/main/3_Excel_Advanced)
 
 ---
-🎓 Upon completing the 4 courses in this Specialization, learners can:
+🎓 Upon completing the 4 courses in this Excel Specialization, learners can:
 
 - Design sophisticated spreadsheets, including **professional dashboards**
 - Perform **complex calculations** using **advanced Excel** features and techniques
