@@ -18,5 +18,4 @@
 - Apply **advanced formulas** and **conditional logic** to support decision-making
 - Develop spreadsheets that enable **forecasting** and **data modeling**
   
-  
 ![final_cert](https://github.com/user-attachments/assets/0eee8749-d9b1-4974-b8b1-39ecf9f0cb79)
