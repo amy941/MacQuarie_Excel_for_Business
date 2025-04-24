@@ -87,7 +87,7 @@
 ### - Solving Problems w Array Formulas
 - **If returning ERRORs:** =SUM(**IFNA**(H7:H17*I7:I17, 0))
   
-💥 **- Week 2_Practice Challenge:** [challenge]()
+💥 **- Week 2_Practice Challenge:** [challenge](https://github.com/amy941/MacQuarie_Excel_for_Business/blob/main/3_Excel_Advanced/Week%202/C4-W2-Practice-Challenge.xlsx)
 
 💥💥 **- Week 2_Assessment:** [assessment_Week 2]()
 
