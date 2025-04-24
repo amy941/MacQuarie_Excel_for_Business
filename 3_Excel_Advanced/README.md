@@ -164,7 +164,7 @@
 
 
 
-💥 **- Week 4_Practice Challenge:** [challenge]()
+💥 **- Week 4_Practice Challenge:** None 🚫
 
 💥💥 **- Week 4_Assessment:** [assessment_Week 4]()
 
@@ -193,7 +193,7 @@
 
 
 
-💥 **- Week 5_Practice Challenge:** [challenge]()
+💥 **- Week 5_Practice Challenge:** None 🚫
 
 💥💥 **- Week 5_Assessment:** [assessment_Week 5]()
 
@@ -219,15 +219,13 @@
 
 
   
-💥 **- Week 6_Practice Challenge:** [challenge]()
+💥 **- Week 6_Practice Challenge:** None 🚫
 
 💥💥 **- Week 6_Assessment:** [assessment_Week 6]()
 
 ---
 
-# Final Course Assessment: [Final Course Assessment]()
 
----
 # CERTIFICATE
 
 ![final cert](https://github.com/user-attachments/assets/ba2c5843-cd52-4cd8-8577-4c4ca6faec00)
