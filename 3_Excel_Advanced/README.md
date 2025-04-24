@@ -115,14 +115,21 @@
  
   
 ### - Remove Unwanted Spaces (TRIM, CLEAN)
-- 
+- **TRIM** function: removes all spaces from text except for single spaces between words. Ex:= =TRIM(CLEAN(Data!B2))
+- **CLEAN** function: to remove non-printable characters from a text string. Ex: =CLEAN(TRIM(Data!B2))
 
 ### - Diagnostic Tools (ISNUMBER, LEN, CODE)
-
+- **ISNUMBER:** check whether a value is a number, returns TRUE or FALSE
+- **CODE:** if we apply CODE function to a string of more than 1 character in length, we would get the code result of the first character in the string.
 
 
 ### - Remove Unwanted Characters (SUBSTITUTE, CHAR, VALUE)
+- **SUBSTITUTE** will remove spaces between words which we may want to keep, whereas the **TRIM** function will maintain single spaces between words.
+- **SUBSTITUTE** is typically **"all or nothing"** when used in simple formulas.
 
+- **=VALUE(A1)** vs. **=VALUE(VALUE(A1))** will produce the same results
+
+- **CHAR** 
 
 💥 **- Week 3_Practice Challenge:**  [challenge]()
 
