@@ -94,17 +94,28 @@
 ---
 
 # WEEK 3
-# 🔗Link: [Week 3_folder]()
+# 🔗Link: [Week 3_folder](https://github.com/amy941/MacQuarie_Excel_for_Business/tree/main/3_Excel_Advanced/Week%203)
 ### - Replace blanks with repeating values
-  
+- **Method 1: Go-to special**
+  * ```Find & Select``` tab--> Go To Special--> Blanks (find the blanks in that area and select them)--> Ctrl+V
+  * Problem: we've lost our original data
 
+- **Method 2: Use Calculation**
+  * IF
+  * ISBLANK
+    =IF(ISBLANK(Sheet1!A2), A1, Sheet1!A2)
+  
   
 ### - Fix Dates (DATE, MONTH, YEAR, DAY, TEXT)
-  
+-  **TEXt** function:
+  * =TEXT(value, format_text) = TEXT(J1, "mmmm")  ⚠️dd=17, ddd=Tue, dddd=Tuesday
 
+- **DATE** function:
+  * =DATE(year, month, day) = DATE(LEFT(Sheet1!F2,4), MID(Sheet1!F2,6,2), RIGHT(Sheet1!F2,2))
+ 
   
 ### - Remove Unwanted Spaces (TRIM, CLEAN)
-
+- 
 
 ### - Diagnostic Tools (ISNUMBER, LEN, CODE)
 
