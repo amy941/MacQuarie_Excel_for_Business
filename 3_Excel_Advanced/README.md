@@ -131,7 +131,7 @@
 
 - **CHAR** 
 
-💥 **- Week 3_Practice Challenge:**  
+💥 **- Week 3_Practice Challenge:**  None 🚫
 
 💥💥 **- Week 3_Assessment:** [assessment_Week 3](https://github.com/amy941/MacQuarie_Excel_for_Business/blob/main/3_Excel_Advanced/Week%203/C4-W3-Final-Assessment-Unicode.xlsx)
 
