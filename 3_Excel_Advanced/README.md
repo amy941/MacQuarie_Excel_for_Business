@@ -164,7 +164,7 @@
 
 
 
-💥💥 **- Week 4_Assessment:** [assessment_Week 4]()
+💥💥 **- Week 4_Assessment:** [assessment_Week 4](https://github.com/amy941/MacQuarie_Excel_for_Business/blob/main/3_Excel_Advanced/Week%204/C4-W4-Final-Assessment.xlsx)
 
 ---
 
