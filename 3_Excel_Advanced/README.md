@@ -191,9 +191,6 @@
 
 
 
-💥 **- Week 5_Practice Challenge:** None 🚫
-
-💥💥 **- Week 5_Assessment:** [assessment_Week 5]()
 
 ---
 
@@ -217,9 +214,7 @@
 
 
   
-💥 **- Week 6_Practice Challenge:** None 🚫
 
-💥💥 **- Week 6_Assessment:** [assessment_Week 6]()
 
 ---
 
